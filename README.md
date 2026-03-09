@@ -1,12 +1,12 @@
 # Uncertainty-Allocation-Tube-MPC
 This repository is the official implementation for the paper: **"Uncertainty Allocation-based Tube Model Predictive Control for building energy management"**.
 
-![Project Overview Figure](pipeline/pipieline plot.png)
+![Project Overview Figure](pipeline/pipieline.png)
 
 
 This project uses the data from multiple sources.
-- ** Download Link: ** You can download it from our google drive(https://drive.google.com/drive/folders/1EQyzTMvkdHomEoAbs5OwajAbKfOHnszL?usp=sharing)
-- ** Setup:** After downloading, place all the files in the same directory as the code. The expected directory should be
+- **Download Link** You can download it from our google drive(https://drive.google.com/drive/folders/1EQyzTMvkdHomEoAbs5OwajAbKfOHnszL?usp=sharing)
+- **Setup** After downloading, place all the files in the same directory as the code. The expected directory should be
   ```
   your-repository/
   ├── building data/
