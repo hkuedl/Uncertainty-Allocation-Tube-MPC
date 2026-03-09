@@ -1,5 +1,5 @@
 # Uncertainty-Allocation-Tube-MPC
-This repository is the official implementation for the paper: **"Uncertainty Allocation-based Tube Model Predictive Control for building energy management"**.
+This repository is the official implementation for the paper: **"Uncertainty Allocation-based Tube Model Predictive Control for Building Energy Management"**.
 
 Authors: Qi Li, Wenbo Zeng, Xueyuan Cui, Yi Wang
 
