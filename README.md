@@ -1,8 +1,11 @@
 # Uncertainty-Allocation-Tube-MPC
 This repository is the official implementation for the paper: **"Uncertainty Allocation-based Tube Model Predictive Control for building energy management"**.
 
+Authors: Qi Li, Wenbo Zeng, Xueyuan Cui, Yi Wang
+
 ![Project Overview Figure](pipeline/pipieline.png)
 
+This paper proposes a novel Uncertainty Allocation-based Tube MPC (UA-TMPC) framework. Departing from conventional static policies, we introduce a cost-aware active uncertainty allocation mechanism that treats allocation coefficients as decision variables, thereby dynamically directing forecasting errors towards the most cost-effective flexible resources. To address the resulting mathematical challenges of decision-dependent uncertainty, we construct adaptive ambiguity tubes that proactively adjust their geometry based on the allocation strategy. Furthermore, a soft-constrained formulation is integrated to mitigate the conservatism of hard tube bounds, enhancing solution feasibility without compromising system reliability.
 
 This project uses the data from multiple sources.
 - **Download Link** You can download it from our google drive(https://drive.google.com/drive/folders/1EQyzTMvkdHomEoAbs5OwajAbKfOHnszL?usp=sharing)
