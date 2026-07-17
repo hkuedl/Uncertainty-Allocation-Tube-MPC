@@ -38,12 +38,11 @@ This project uses the data from multiple sources.
   ```
 
 This repository includes Jupyter Notebooks for data exploration, model demonstration, and result analysis.
-- **'final_single.ipynb'**: Provides a detailed simulation of UA-TMPC, H-UA-TMPC, DMPC, SMPC, and RMPC for one single day.
-- **'final_full.ipynb'**: Provides a simulation of the above methods for one complete month.
-- **'comparison_result.ipynb'**: Provides a comparison between UA-TMPC, DMPC, SMPC, and RMPC.
-- **'dynamic_behavior.ipynb'**: Plots the dynamic behavior comparison of UA-TMPC, DMPC, SMPC, and RMPC.
-- **'scenario_test.ipynb'**: Abalation Studies of soft-formulation mechanism on different scaling factors
-- **'sensitivity_analysis.ipynb'**: Sensitivity Analysis on weights of soft-mechanism
-- **'size_sensitivity.ipynb'**: Sensitivity Analysis on scenario size
+- **'f'**: 
+- **'f'**: 
+- **'c'**: 
+- **'d'**: 
+- **'sb'**: 
+- **'s'**: 
+- **''**: 
 
-# 
