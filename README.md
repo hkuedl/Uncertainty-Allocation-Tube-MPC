@@ -62,6 +62,7 @@ your-repository/
 ```
 
 This repository includes Jupyter Notebooks for data exploration, model demonstration, and result analysis.
+
 Python files
 - **'__init__.py'**: Exposes the main configuration classes of the UATMPC package.
 - **'config.py'**: Defines project paths, MPC settings, and physical system parameters.
@@ -70,6 +71,7 @@ Python files
 - **'scenarios.py'**: Generates uncertainty scenarios from quantile forecasts.
 - **'ambiguity.py'**: Computes distributionally robust uncertainty bounds and ambiguity-set parameters.
 - **'experiment.py'**: Coordinates data preparation, forecasting, optimization, and result collection.
+  
 MPC optimizers
 - **'optimizers/__init__.py'**: Exports all implemented MPC optimizer classes.
 - **'optimizers/standard_mpc.py'**: Implements deterministic MPC using point forecasts.
@@ -81,7 +83,9 @@ MPC optimizers
 - **'stochastic_tmpc.py'**: Implements distributionally robust tube MPC.
 - **'optimizers/perfect_mpc.py'**: Implements MPC assuming perfect future forecasts.
 - **'optimizers/ground_truth.pyv'**: Implements full-day optimization problem using ground-truth future data.
+
 Jupyter notebooks
+
 - **'single_day_test.ipynb'**: Runs and visualizes all MPC methods for one representative day.
 - **'one_month_test.ipynb'**: Compares MPC methods over a one-month evaluation period.
 - **'daily_curve.ipynb'**: Visualizes the daily temperature, energy, and control trajectories.
