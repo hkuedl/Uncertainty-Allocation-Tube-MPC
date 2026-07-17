@@ -1,0 +1,16 @@
+# Core numerical and data-processing dependencies
+numpy==2.1.3
+pandas==2.3.3
+scipy==1.15.3
+
+# Optimization
+cvxpy==1.7.3
+gurobipy==12.0.3
+
+# Forecasting and visualization
+xgboost==3.3.0
+matplotlib==3.10.0
+
+# Required to run the included Jupyter notebooks
+jupyter==1.1.1
+tqdm==4.67.1
