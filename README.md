@@ -86,7 +86,7 @@ MPC optimizers
 
 Jupyter notebooks
 
-- **'single_day_test.ipynb'**: Runs and visualizes all MPC methods for one representative day.
+- **'single_day_test.ipynb'**: Runs and tests all MPC methods for one representative day.
 - **'one_month_test.ipynb'**: Compares MPC methods over a one-month evaluation period.
 - **'daily_curve.ipynb'**: Visualizes the daily temperature, energy, and control trajectories.
 - **'ww_sensitivity.ipynb'**: Evaluates sensitivity to the soft-constraint penalty coefficient.
