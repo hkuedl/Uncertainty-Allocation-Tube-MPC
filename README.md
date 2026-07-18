@@ -80,7 +80,7 @@ MPC optimizers
 - **'optimizers/dr_mpc.py'**: Implements distributionally robust MPC with ambiguity-set constraints.
 - **'optimizers/tube_mpc.py'**: Implements the tube-based MPC formulation.
 - **'optimizers/ua_tube_mpc.py'**: Implements the proposed uncertainty-aware tube MPC method.
-- **'stochastic_tmpc.py'**: Implements distributionally robust tube MPC.
+- **'optimizers/stochastic_tmpc.py'**: Implements distributionally robust tube MPC.
 - **'optimizers/perfect_mpc.py'**: Implements MPC assuming perfect future forecasts.
 - **'optimizers/ground_truth.pyv'**: Implements full-day optimization problem using ground-truth future data.
 
