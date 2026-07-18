@@ -82,7 +82,7 @@ MPC optimizers
 - **'optimizers/ua_tube_mpc.py'**: Implements the proposed uncertainty-aware tube MPC method.
 - **'optimizers/stochastic_tmpc.py'**: Implements distributionally robust tube MPC.
 - **'optimizers/perfect_mpc.py'**: Implements MPC assuming perfect future forecasts.
-- **'optimizers/ground_truth.pyv'**: Implements full-day optimization problem using ground-truth future data.
+- **'optimizers/ground_truth.py'**: Implements full-day optimization problem using ground-truth future data.
 
 Jupyter notebooks
 
