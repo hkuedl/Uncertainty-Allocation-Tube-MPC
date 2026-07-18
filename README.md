@@ -90,7 +90,7 @@ Jupyter notebooks
 - **'one_month_test.ipynb'**: Compares MPC methods over a one-month evaluation period.
 - **'daily_curve.ipynb'**: Visualizes the daily temperature, energy, and control trajectories.
 - **'ww_sensitivity.ipynb'**: Evaluates sensitivity to the soft-constraint penalty coefficient.
-- **'accuracy_sensitivity.ipynb'**: 
+- **'accuracy_sensitivity.ipynb'**: Evaluates sensitivity to the uncertainty scaling factor.
 - **'reviewer_forecast_diagnostics.ipynb'**: Examines forecast calibration and scenario-generation quality.
 
 
